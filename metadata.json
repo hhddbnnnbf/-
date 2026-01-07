@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Slash: Air Fruit Edition",
+  "description": "A gesture-controlled fruit slashing game using your camera and hand tracking. Slice through fruit in mid-air with your index finger!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
